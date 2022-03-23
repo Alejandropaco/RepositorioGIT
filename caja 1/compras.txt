@@ -2,3 +2,6 @@ copas
 vasos
 cubiertos
 mayonesa
+teclado
+mouse
+auriculares
