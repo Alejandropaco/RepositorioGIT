@@ -1,0 +1,4 @@
+copas
+vasos
+cubiertos
+mayonesa
